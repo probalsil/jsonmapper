@@ -32,13 +32,13 @@ directory.
 
 Run the JUnit test by entering the following command:
 
-go test ./datamapper_test
+## go test ./datamapper_test
 
 This will compile and run the test file and display the results.
 
 If the test passes, run the main file by entering the following command:
 
-go run main.go
+## go run main.go
 
 This will compile and run the main.go file and output the result of
 calling the MapInputToOutput function.
