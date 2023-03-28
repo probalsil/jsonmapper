@@ -1,9 +1,12 @@
 # jsonmapper
 
-1\. Write a golang data mapper project which will map one json structure
-to another 2. Write the mapper.go file and call it in main.go file 3.
-Write structs for two different json structures 4. Write a junit for
-mapper.go 5. Explain how to execute the project step by step
+1. Write a golang data mapper project which will map one json structure
+   to another
+2. Write the mapper.go file and call it in main.go file 
+3. Write structs for two different json structures 
+4. Write a junit for
+mapper.go 
+5. Explain how to execute the project step by step
 
 Here are the steps to execute the above project:
 
